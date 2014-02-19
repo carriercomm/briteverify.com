@@ -14,3 +14,6 @@ Validate real emails with briteverify.com API
 	
 	
 ![Result Fields](https://raw.github.com/madeinnordeste/briteverify.com/master/briteverify-results.png "Result Fields")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/briteverify.com/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
