@@ -13,3 +13,4 @@ Validate real emails with briteverify.com API
 ##Result fields:
 	
 	
+![Result Fields](https://raw.github.com/madeinnordeste/briteverify.com/master/briteverify-results.png "Result Fields")
